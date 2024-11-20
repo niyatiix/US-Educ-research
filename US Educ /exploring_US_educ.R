@@ -1,5 +1,7 @@
 ##  DATA MANIPULATION
 library(tidyverse)
+library(dplyr)
+library(readr)
 
 # COLLEGES CASE STUDY
 
